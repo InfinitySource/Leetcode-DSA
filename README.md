@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/InfinitySource/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/InfinitySource/Leetcode-DSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/InfinitySource/Leetcode-DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/InfinitySource/Leetcode-DSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/InfinitySource/Leetcode-DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/InfinitySource/Leetcode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/InfinitySource/Leetcode-DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/InfinitySource/Leetcode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
