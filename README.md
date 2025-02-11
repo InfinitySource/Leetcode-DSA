@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/InfinitySource/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/InfinitySource/Leetcode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
